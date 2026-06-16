@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Entre tus caricias
+
+This log tracks the cryptographic history and versioning for the song **Entre tus caricias** (entre-tus-caricias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:21:45.159130 | `v1` | `adfee6c68445aa56968ff59dc0422d9bd8797ead9794169dee25c4ff758bf978` | `0f3bf865dbbcd0c345f2ee10f9b6f6fe47de5fcd908a08232536411e74debe28` | `2026-06-16_entre-tus-caricias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

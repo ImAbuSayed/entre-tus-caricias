@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/entre-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Entre tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-tus-caricias/) |
+| **Get License** | [Official Music Licensing for Entre tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `adfee6c68445aa56968ff59dc0422d9bd8797ead9794169dee25c4ff758bf978` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
