@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ya son las tres y sigo pensándote, mami
+> Tú tienes el control, bailando para mí
+> Me pierdo lento en el roce de tu piel
+> Entre tus caricias que saben a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
